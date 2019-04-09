@@ -1,3 +1,4 @@
+#gonderilen string, text in icerisinde varsa True donduren ve text icerisinde bulundugu indisi/indisleri liste seklinde return eden fonksiyon
 def syllableInSentences(text, string):
     array = [] #string in baslangic indislerini tuttugum dizi
     a = False
